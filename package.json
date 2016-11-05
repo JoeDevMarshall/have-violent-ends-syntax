@@ -1,0 +1,18 @@
+{
+  "name": "have-violent-ends-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Syntax color theme inspired by HBO's Westworld that pairs nicely with these-violent-delights-ui theme also for the Atom text editor",
+  "keywords": [
+    "syntax",
+    "theme",
+    "Westworld",
+    "future",
+    "AI"
+  ],
+  "repository": "https://github.com/atom/have-violent-ends-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
