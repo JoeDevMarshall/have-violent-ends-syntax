@@ -10,7 +10,7 @@
     "future",
     "AI"
   ],
-  "repository": "https://github.com/atom/have-violent-ends-syntax",
+  "repository": "https://github.com/JoeDevMarshall/have-violent-ends-syntax.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
